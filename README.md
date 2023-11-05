@@ -1,2 +1,2 @@
 # Frontend-Correttore
-Questa è la versione nuova (2020) del Correttore Automatico, versione compilata, serve solo per l'installazione, non è pensato per essere modificato.
+Questa è la versione nuova (2020) del frontend per il Correttore Automatico, versione compilata utile solo per l'installazione
